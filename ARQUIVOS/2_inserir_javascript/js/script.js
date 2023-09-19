@@ -1,0 +1,1 @@
+console.log("script fora do html");
